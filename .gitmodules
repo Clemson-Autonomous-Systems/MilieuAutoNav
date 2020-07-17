@@ -1,0 +1,6 @@
+[submodule "hector_slam"]
+	path = hector_slam
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
